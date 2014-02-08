@@ -1,0 +1,1 @@
+<?php return; // Don't register your artisan commands here, do it in your app's ServiceProvider subclass.

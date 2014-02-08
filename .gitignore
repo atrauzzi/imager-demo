@@ -1,0 +1,6 @@
+node_modules
+/bootstrap/compiled.php
+/vendor
+*.phar
+.DS_Store
+.idea
