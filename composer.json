@@ -2,7 +2,7 @@
 	"name": "atrauzzi/imager-demo",
 	"description": "Imager demo, by Alexander Trauzzi",
 	"keywords": ["laravel", "imager", "demo"],
-	"license": "Private",
+	"license": "MIT",
 	"require": {
 		"laravel/framework": "4.1.*",
 		"tippingcanoe/imager": "2.*",
