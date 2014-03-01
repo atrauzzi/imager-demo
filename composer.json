@@ -6,7 +6,8 @@
 	"require": {
 		"laravel/framework": "4.1.*",
 		"tippingcanoe/imager": "2.*",
-		"tippingcanoe/validator": "dev-master"
+		"tippingcanoe/validator": "dev-master",
+		"atrauzzi/laravel-nested-set": "dev-master"
 	},
 	"autoload": {
         "psr-0": {
